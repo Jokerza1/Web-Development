@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+	border-color: purple ;
+	border-width: 5px;
+	border-style: dashed;
+}
+li {
+	color: green;
+}
+h1.second {
+	color: orange;
+}
+h4{
+	color: purple;
+	background-color: rgba(255, 100, 80, .2);
+	background-size: cover;
+}
+body {
+	/*background: url(http://wallpaper-gallery.net/images/free-wallpaper-for-website-backgrounds/free-wallpaper-for-website-backgrounds-10.jpg);
+*/
+
+background-color: pink;
+} 

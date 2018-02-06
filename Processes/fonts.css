@@ -1,0 +1,19 @@
+p {
+	font-family: Yanone Kaffeesatz;
+	font-size: 2.0em;
+	font-weight: bold;
+	line-height: 1.5;
+	text-align: center;
+}
+h1 {
+	font-family: Gloria Hallelujah;
+	font-size: 5.0em;
+	text-align: center;
+	text-decoration: underline;
+}
+span {
+	font-size: 2.0em;
+}
+body {
+	font-size: 10px;
+}

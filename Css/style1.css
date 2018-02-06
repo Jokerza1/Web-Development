@@ -1,0 +1,9 @@
+h1 {
+	color: red;
+}
+li {
+	color: green;
+}
+h1.second {
+	color: orange;
+}
