@@ -1,0 +1,56 @@
+//Numbers
+4
+9.3
+-10
+
+//Strings
+"Hello World"
+"43"
+
+//Booleans
+true 
+false
+
+//null and undefined
+null	
+undefined
+
+
+
+<-------------------NUMBERS------------------->
+4
+9.3
+-10
+
+//We can do some math
+4 + 10	 	//14
+1/5 		//0.2
+
+//Modulo - remainder operator
+
+10 % 3 		//1
+24 % 2 		//0        ///MOD is to take number multiply as much as possibly and then 
+15 % 11 	//4		  ///count the remain number.
+<-------------------NUMBERS------------------->
+
+<-------------------STRINGS------------------->
+//Single or Double quotes OK
+"hello world"
+'hello world'
+
+//Concatenation
+"charlie" + "brown"		//"charilebrown"
+
+//Escape Characters starts with "\"
+"Singin \"Do wah diddy, diddy, dum diddy dp\" "		//SHOW SENTENCE WITH ""
+"This is a backslash: \\"
+
+//Strings have a length property
+"hello world".length		//11
+
+//Access individual characters using [] and an index
+"hello"[0]		//"h"		// START WITH "0" AS 1
+"hello"[4]		//"o"		//CHARACTER NUMBER nth of the SENTENCE
+<-------------------STRINGS------------------->
+
+NOTE SECTION 8 LECTURE 87 88
